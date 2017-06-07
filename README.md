@@ -5,7 +5,7 @@ Version removes themes from modification, direct access to skin info, code clean
 
 Changes are made by ArchaicSoft and any potential copywrite issues/infringement should be reported to ArchaicSoft immediately for corrections.
 
-At this current time, you may contact SpiceyWolf on AscendingCreations.com or pm the github poster - ArchaicOokami.
+At this current time, you may contact SpiceyWolf on AscendingCreations.com or pm the github poster.
 
 All Credits due to Weifen Luo and contributors/team.
 
