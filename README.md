@@ -3,7 +3,7 @@ Weifen Luo's DockPanel Suite.
 
 Version removes themes from modification, direct access to skin info, code cleanup, (Hopefully) optimization, and code standardization accourding to ReSharper.
 
-Changes are made by ArchaicSoft and any potential copywrite issues/infringement should be reported to ArchaicSoft immediately for corrections.
+Changes are made by SpiceyWolf and any potential copywrite issues/infringement should be reported to SpiceyWolf immediately for corrections.
 
 At this current time, you may contact SpiceyWolf on AscendingCreations.com or pm the github poster.
 
