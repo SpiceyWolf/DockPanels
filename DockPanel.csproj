@@ -90,6 +90,9 @@
     <Compile Include="Components\SplitterBase.cs">
       <SubType>Component</SubType>
     </Compile>
+    <Compile Include="Forms\NoCloseDockContent.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="Misc\DockAreasEditor.cs" />
     <Compile Include="Forms\DockContent.cs">
       <SubType>Form</SubType>
